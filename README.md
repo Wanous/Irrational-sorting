@@ -115,8 +115,9 @@ $${n \over 10^p}\cdot{1 \over 2}$$ so $${n^2 \over 2\cdot10^{2p}}$$
 > Therefore **finiteness** is prouved and so the **correctness** as well.
 
 
-## Thε application
+## 📼 Thε application
 &nbsp;&nbsp;&nbsp;&nbsp;If you have remark it, this is not a repository to just a `README.md` but for a whole application. The application is called `Sorting Visualizer` and the title say it all but this is an visualisation of the Irrational sorting !
+### Interface
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
