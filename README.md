@@ -13,10 +13,9 @@ The Irrational sorting algorithm is an innovative method that uses irrational nu
 ## How it works ?
 I sort the items by repeatedly swapping their positions based on the digits of the Irrational number used. For example, if the first two digits of the irrational number are 1 and 2, you would swap the first and second items in your list. You continue this process, using more digits as needed, depending on the size of the list.
 
-<div align="center"><img alt="banniere" align="center"  height="50%" width="50%" src="photos/Exemple_exchange.png"></div>
+<div align="center"><img alt="banniere" align="center"  height="50%" width="50%" src="photos/Example_exchange.png"></div>
 
-
-π : 3.1441...<mark>03</mark>
+<div align="center"><h3>π : 3.1441...<mark><b>03</b></mark></h3></div>
 
 ## Handling Larger Lists
 The algorithm adapts to different list sizes by using more digits from the irrational number as the list grows. For a list of 10 items, you use one digit at a time; for a list of 100 items, you use two digits at a time, and so on. This ensures that every item in the list can be properly sorted, even as the list size increases.
