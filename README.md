@@ -133,7 +133,9 @@ Here a photo to see how it look like :
  > [!TIP]
  > The window is resizable to your liking so take advantage of it :)
 
-<br>
+<p></p>
+<p></p>
+<p></p>
 
 ### Console
 With the application you can access to other information by the console of python :
@@ -142,7 +144,7 @@ With the application you can access to other information by the console of pytho
 - In green the exchanges that went well
 - On the side of the list their is the decimals used for the exchange
 
-<img alt="banniere" align="right" height="50%" width="35%" src="photos/Console_example.png">
+<img alt="banniere" height="50%" width="45%" src="photos/Console_example.png">
 
 
 ### Irrational number available
@@ -154,5 +156,15 @@ Plus you can use different irrational number to sort your list :
 | **ϕ** | phi, golden number| 
 | **e**| Euler's constant, exponential  | 
 | <strong>C<sub>10</sub></strong>| Champernowne constant | 
+
+> [!CAUTION]
+> Irrational have in theory **infinity decimals** but infinity can't be stock on a PC. So decimals are **finite** in my program I have approximately **1 000 000** decimals for each irrational number.
+> You can have more of decimals on the web with some generators **(by the way their is a generator for ϕ and C<sub>10</sub> on this repository)**.
+> 
+> Because of that, if the sorting take to many decimals and go above the decimals that there are in the .txt file the sorting will stop.
+
+Anyway if you want to add more irrational numbers to the application I lead you to the `CONTRIBUTION.md` [Here](CONTRIBUTING.md)
+
+
 
 
