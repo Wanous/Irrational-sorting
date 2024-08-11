@@ -116,9 +116,17 @@ $${n \over 10^p}\cdot{1 \over 2}$$ so $${n^2 \over 2\cdot10^{2p}}$$
 > Therefore **finiteness** is prouved and so the **correctness** as well.
 
 
-## 📼 Thε application
+# 📼 Thε application
 &nbsp;&nbsp;&nbsp;&nbsp;If you have remark it, this is not a repository to just a `README.md` but for a whole application. The application is called `Sorting Visualizer` and the title say it all but this is an visualisation of the Irrational sorting !
-### Interface
+
+## How to install it
+- Download the latest version of Python with [this link](https://www.python.org/downloads/)
+- Download this depot using the download button
+- Open a terminal in the folder where you have download the depot
+- Execute the command `python -m pip install -r requirements.txt` to install the dependencies
+- Execute the command  `python main.py` to lunch the programm
+
+## Interface
 The interface is pretty simple. Their is two slidebar :
 - One to select the speed or the sorting (can be change during the sorting)
 - Another one to select for the numbers of elements to sort
@@ -131,23 +139,23 @@ Here a photo to see how it look like :
 <img alt="banniere" align="right" height="50%" width="35%" src="photos/Video_test.gif">
 
  > [!TIP]
- > The window is resizable to your liking so take advantage of it :)
+ > The window is resizable to your liking so take advantage of it.
 
 <p></p>
 <p></p>
 <p></p>
 
-### Console
+## Console
 With the application you can access to other information by the console of python :
 
 - In red the exchanges with one or two wrong indexes (so their are not performed)
 - In green the exchanges that went well
-- On the side of the list their is the decimals used for the exchange
+- On the side of the list there is the decimals used for the exchange
 
 <img alt="banniere" height="50%" width="45%" src="photos/Console_example.png">
 
 
-### Irrational number available
+## Irrational number available
 Plus you can use different irrational number to sort your list : 
 
 | Symbol | Name | 
@@ -163,7 +171,11 @@ Plus you can use different irrational number to sort your list :
 > 
 > Because of that, if the sorting take to many decimals and go above the decimals that there are in the .txt file the sorting will stop.
 
-Anyway if you want to add more irrational numbers to the application I lead you to the `CONTRIBUTION.md` [Here](CONTRIBUTING.md)
+Anyway if you want to add more irrational numbers to the application I lead you to the `CONTRIBUTING.md` [Here](CONTRIBUTING.md)
+
+
+## The end
+**📌 Thank you for reading this article based on research that took me a lot of time to do and organize. If you have any remark or other things interesting to say don't hesitate to contact me. Every remark is appreciated**
 
 
 
