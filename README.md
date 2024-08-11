@@ -133,9 +133,16 @@ Here a photo to see how it look like :
  > [!TIP]
  > The window is resizable to your liking so take advantage of it :)
 
-### Interface
+<br>
 
+### Console
 With the application you can access to other information by the console of python :
+
+- In red the exchanges with one or two wrong indexes (so their are not performed)
+- In green the exchanges that went well
+- On the side of the list their is the decimals used for the exchange
+
+<img alt="banniere" align="right" height="50%" width="35%" src="photos/Console_example.png">
 
 
 ### Irrational number available
