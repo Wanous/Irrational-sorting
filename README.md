@@ -44,6 +44,7 @@ I calculate that with this equation : p = ⌈log<sub>10</sub>(n)⌉
   
   The algorithm makes swaps between items based on the digits of the irrational number. He can do it theoretically infinitely. Plus the algorithm is made in a while loop that will stop if the list is sorted. 
   ```
+  # Part of the pseudo code
   while is_sorted(my_list) == False :
       swap element in the list based on the digits
   ```
@@ -126,16 +127,20 @@ Then the `start button` to start the sorting and the `restart button` to start a
 
 Here a photo to see how it look like :
 
- <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_description.png">
- 
+<img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_description.png">
+<img alt="banniere" align="right" height="50%" width="35%" src="photos/Video_test.gif">
+
  > [!TIP]
-  The window is resizable to your liking so take advantage of it :)
+ > The window is resizable to your liking so take advantage of it :)
 
 ### Irrational number available
 Plus you can use different irrational number to sort your list : 
+
 | Symbol | Name | 
 |:-------------:|:--------------|
 | **π** | pi, Archimedes' constant |
 | **ϕ** | phi, golden number| 
 | **e**| Euler's constant, exponential  | 
 | <strong>C<sub>10</sub></strong>| Champernowne constant | 
+
+
