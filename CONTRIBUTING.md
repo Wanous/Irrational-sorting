@@ -1,11 +1,12 @@
-# Guide de Contribution
+# Contribution guide
 
-Merci de vouloir contribuer à ce projet !
+Thank you for wanting to contribute to this project !
 
-## Comment contribuer
+## How to contribute ? 
+If you think you have a good idea for a fonctionnaity :
 
-1. Forkez le dépôt
-2. Créez une branche pour votre fonctionnalité (`git checkout -b fonctionnalite`)
-3. Committez vos modifications (`git commit -m 'Ajout d'une fonctionnalité'`)
-4. Poussez vers la branche (`git push origin fonctionnalite`)
-5. Ouvrez une pull request
+1. Fork the repository
+2. Create a branch for your feature (`git checkout -b feature`)
+3. Commit your changes (`git commit -m 'Adding a feature'`)
+4. Push to the branch (`git push origin feature`)
+5. Open a pull request
