@@ -171,11 +171,11 @@ Plus you can use different irrational number to sort your list :
 > 
 > Because of that, if the sorting take to many decimals and go above the decimals that there are in the .txt file the sorting will stop.
 
-Anyway if you want to add more irrational numbers to the application I lead you to the `CONTRIBUTING.md` [Here](CONTRIBUTING.md)
+Anyway if you want to add more irrationals numbers to the application I lead you to the `CONTRIBUTING.md` [Here](CONTRIBUTING.md)
 
 
 ## The end
-**📌 Thank you for reading this article based on research that took me a lot of time to do and organize. If you have any remark or other things interesting to say don't hesitate to contact me. Every remark is appreciated**
+**📌 Thank you for reading this article based on research that took me a lot of time to do and organize. If you have any remark or other things interesting to say don't hesitate to contact me. Every remark is appreciated.**
 
 
 
