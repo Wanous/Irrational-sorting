@@ -1,0 +1,27 @@
+{
+    "Irrational": [
+        {
+            "name": "Pi",
+            "image_path": "sources/ressources/images/Pi.png",
+            "decimals_path": "sources/ressources/decimals/pi.txt"
+        },
+        {
+            "name": "Phi",
+            "image_path": "sources/ressources/images/Phi.png",
+            "decimals_path": "sources/ressources/decimals/phi.txt"
+        },
+        {
+            "name": "Euler's constant e",
+            "image_path": "sources/ressources/images/Euler_constant.png",
+            "decimals_path": "sources/ressources/decimals/e.txt"
+        },
+        {
+            "name": "Champernowne's constant C10",
+            "image_path": "sources/ressources/images/Champernowne_constant.png",
+            "decimals_path": "sources/ressources/decimals/Champernowne.txt"
+        }
+    ]
+}
+
+
+
