@@ -118,8 +118,22 @@ $${n \over 10^p}\cdot{1 \over 2}$$ so $${n^2 \over 2\cdot10^{2p}}$$
 ## 📼 Thε application
 &nbsp;&nbsp;&nbsp;&nbsp;If you have remark it, this is not a repository to just a `README.md` but for a whole application. The application is called `Sorting Visualizer` and the title say it all but this is an visualisation of the Irrational sorting !
 ### Interface
+The interface is pretty simple. Their is two slidebar :
+- One to select the speed or the sorting (can be change during the sorting)
+- Another one to select for the numbers of elements to sort
 
-| Tables        | Are           | Cool  |
+
+Then the start button to 
+
+ <img alt="Image od the interface n°1" height="50%" width="40%" src="photos/Interface_description.png">
+<div>
+  <img alt="Image od the interface n°1" height="50%" width="40%" src="photos/Interface.png">
+  <img alt="Image od the interface n°2" height="50%" width="40%" src="photos/Interface_2.png">
+</div>
+
+
+
+| button        | utility           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
