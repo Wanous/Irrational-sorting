@@ -29,7 +29,7 @@ I calculate that with this equation : p = ⌈log<sub>10</sub>(n)⌉
 - n ∈ ℕ*  : number of elements on the list
 
 ### Examples :
-- p = 1 : ‘141592653589793238462643383279…’ →  1,4,1,5,9,2,6,5,3,5,8,9,7,...  
+- p = 1 : ‘141592653589793238462643383279…’ → 1,4,1,5,9,2,6,5,3,5,8,9,7,...  
 - p = 2 : ‘141592653589793238462643383279…’ → 14,15,92,65,35,89,79,32,38,... 
 
 (here it is the first decimals of π which are used for the example)
@@ -131,12 +131,11 @@ Here a photo to see how it look like :
  > [!TIP]
   The window is resizable to your liking so take advantage of it :)
 
-
+### Irrational number available
 Plus you can use different irrational number to sort your list : 
- 
- 
-| button        | utility           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Symbol | Name | 
+|:-------------:|:--------------|
+| **π** | pi, Archimedes' constant |
+| **ϕ** | phi, golden number| 
+| **e**| Euler's constant, exponential  | 
+| <strong>C<sub>10</sub></strong>| Champernowne constant | 
