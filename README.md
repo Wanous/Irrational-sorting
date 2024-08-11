@@ -123,16 +123,18 @@ The interface is pretty simple. Their is two slidebar :
 - Another one to select for the numbers of elements to sort
 
 
-Then the start button to 
+Then the `start button` to start the sorting and the `restart button` to start another sorting with different parameters. You can even choose your irrational number !
 
- <img alt="Image od the interface n°1" height="50%" width="40%" src="photos/Interface_description.png">
-<div>
-  <img alt="Image od the interface n°1" height="50%" width="40%" src="photos/Interface.png">
-  <img alt="Image od the interface n°2" height="50%" width="40%" src="photos/Interface_2.png">
-</div>
+Here a photo to see how it look like :
 
+ <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_description.png">
 
+ Oh and the window is completely resizable :
 
+  <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_size.png">
+
+ 
+ 
 | button        | utility           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
