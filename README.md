@@ -133,6 +133,11 @@ Here a photo to see how it look like :
  > [!TIP]
  > The window is resizable to your liking so take advantage of it :)
 
+### Interface
+
+With the application you can access to other information by the console of python :
+
+
 ### Irrational number available
 Plus you can use different irrational number to sort your list : 
 
