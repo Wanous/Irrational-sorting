@@ -122,15 +122,14 @@ The interface is pretty simple. Their is two slidebar :
 - One to select the speed or the sorting (can be change during the sorting)
 - Another one to select for the numbers of elements to sort
 
-
 Then the `start button` to start the sorting and the `restart button` to start another sorting with different parameters. You can even choose your irrational number !
 
 Here a photo to see how it look like and the window is completely resizable :
 
- <img alt="Image od the interface n°1" height="50%" width="75%" src="photos/Interface_size.png">
+ <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_size.png">
 
 
-
+Plus you can use different irrational number to sort your list : 
  
  
 | button        | utility           | Cool  |
