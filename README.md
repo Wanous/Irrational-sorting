@@ -127,11 +127,11 @@ Then the `start button` to start the sorting and the `restart button` to start a
 
 Here a photo to see how it look like :
 
- <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_description.png">
+ <img alt="Image od the interface n°1" height="50%" width="75%" src="photos/Interface_description.png">
 
  Oh and the window is completely resizable :
 
-  <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_size.png">
+  <div align="center"><img alt="Image od the interface n°1" height="50%" width="25%" src="photos/Interface_size.png"></div>
 
  
  
