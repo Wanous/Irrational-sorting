@@ -124,9 +124,12 @@ The interface is pretty simple. Their is two slidebar :
 
 Then the `start button` to start the sorting and the `restart button` to start another sorting with different parameters. You can even choose your irrational number !
 
-Here a photo to see how it look like and the window is completely resizable :
+Here a photo to see how it look like :
 
- <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_size.png">
+ <img alt="Image od the interface n°1" height="50%" width="100%" src="photos/Interface_description.png">
+ 
+ > [!TIP]
+  The window is resizable to your liking so take advantage of it :)
 
 
 Plus you can use different irrational number to sort your list : 
