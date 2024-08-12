@@ -42,3 +42,5 @@ If you think you have a good idea for a fonctionnaity :
      "decimals_path": "sources/ressources/decimals/pi.txt"
    }
    ```
+
+5. Launch the program and you will see your irrational number !
