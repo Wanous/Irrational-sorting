@@ -29,8 +29,6 @@ class SortingVisualizer:
         # add them to self.images
         for I in data["Irrational"]:
             self.images[I['name']] = {'image' : tk.PhotoImage(file=I['image_path']),'file' : I['decimals_path'] }
-        print(self.images)
-
 
         #---List of random numbers---
         self.data = [0]
